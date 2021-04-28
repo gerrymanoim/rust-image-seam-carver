@@ -13,3 +13,11 @@ Output (trimming 500px in width):
 ![](https://raw.githubusercontent.com/gerrymanoim/rust-image-seam-carver/main/out.jpg)
 
 ## TODO
+
+- [ ] Code cleanup
+- [ ] Performance improvements
+- [ ] Add hieght resizing
+- [ ] Extensions from https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf
+- [ ] Object removal
+- [ ] Realtime
+- [ ]
