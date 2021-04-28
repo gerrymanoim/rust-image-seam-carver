@@ -19,5 +19,5 @@ Output (trimming 500px in width):
 - [ ] Add hieght resizing
 - [ ] Extensions from https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf
 - [ ] Object removal
-- [ ] Realtime
+- [ ] Realtime https://users.cs.cf.ac.uk/Paul.Rosin/resources/papers/seam-carving-ChinaF.pdf
 - [ ]
